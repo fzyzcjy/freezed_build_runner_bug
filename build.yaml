@@ -1,6 +1,0 @@
-targets:
-  $default:
-    builders:
-      mobx_codegen|mobx_generator:
-        options:
-          hasToString: false
